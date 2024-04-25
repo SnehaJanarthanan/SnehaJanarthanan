@@ -1,6 +1,6 @@
 
 <h1>👋 I'm Sneha Janarthanan!</h1><br>🧠 I'm a Computer Science student, Backend - Developer (Primarily) and love learning new things!
-<br>🔭 Currently working on some fun side projects.<br>🌱 Learning about Cybersecurity and Machine Learning<br>💬 Ask me about my experiences with hackathons!<br>👨‍💻 My portfolio is available at https://snehajanarthanan.vercel.app/ <br>📄  Want my Resume?  http://bit.ly/3Uggt5F<br>📫 Reach me at snehajanarthanan@gmail.com<br>⚡Fun Fact: I know a lot of Fun Facts.<br>😄 Pronouns: She/Her
+<br>🔭 Currently working on some fun side projects.<br>🌱 Learning about Cybersecurity and Machine Learning<br>💬 Ask me about my experiences with hackathons!<br>👨‍💻 My portfolio is available at https://snehajanarthanan.vercel.app/ <br>📄  Want my Resume?  http://bit.ly/3Uggt5F<br>📫 Reach me at snehajanarthanan@gmail.com<br>😄 Pronouns: She/Her
 
 
 
